@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u6yymUnusM7W6ulw4uJCh8SyMjhb/nHbid6VqNolMwkuMspJVmDDzammbuT5AHlAVkynsGhlEV+71zFrl8df8A==",
+  "dgSpecHash": "L8OGKgyDptqxWnfPdo2JaWWFqbFasDqVvz0BxGdQ2+0FeBVIRFxtGWQxmobj0ge5U/oLb9jRfggsv7xrU09k7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\moham\\CSharp\\Collections1\\src\\Collections\\Collections.csproj",
+  "projectFilePath": "C:\\Users\\moham\\CSharp\\Collections1\\src\\collections\\collections.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

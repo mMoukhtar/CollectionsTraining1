@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moham\\CSharp\\Collections1\\src\\Collections\\Collections.csproj": {}
+    "C:\\Users\\moham\\CSharp\\Collections1\\src\\collections\\collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moham\\CSharp\\Collections1\\src\\Collections\\Collections.csproj": {
+    "C:\\Users\\moham\\CSharp\\Collections1\\src\\collections\\collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moham\\CSharp\\Collections1\\src\\Collections\\Collections.csproj",
-        "projectName": "Collections",
-        "projectPath": "C:\\Users\\moham\\CSharp\\Collections1\\src\\Collections\\Collections.csproj",
+        "projectUniqueName": "C:\\Users\\moham\\CSharp\\Collections1\\src\\collections\\collections.csproj",
+        "projectName": "collections",
+        "projectPath": "C:\\Users\\moham\\CSharp\\Collections1\\src\\collections\\collections.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moham\\CSharp\\Collections1\\src\\Collections\\obj\\",
+        "outputPath": "C:\\Users\\moham\\CSharp\\Collections1\\src\\collections\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
