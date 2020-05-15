@@ -12,6 +12,19 @@ namespace Collections
             this.filePath = filePath;
         }
 
+        public Dictionary<string,Country> ReadCountries(){
+            using (var reader = new StreamReader(filePath)){
+                reader.ReadLine();
+                var countries = new Dictionary<string,Country>();
+                while (reader.Peek() > 0) 
+                {
+                    var country = ReadCountryFromCsvLine(reader.ReadLine());
+                    countries.Add(country.Code,country);
+                }
+                return countries;
+            }
+        }
+
         public List<Country> ReadAllCountries(){
             using (var reader = new StreamReader(filePath)){
                 reader.ReadLine();

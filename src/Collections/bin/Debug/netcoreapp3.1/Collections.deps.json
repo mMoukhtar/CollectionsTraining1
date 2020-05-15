@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "collections/1.0.0": {
+      "Collections/1.0.0": {
         "runtime": {
-          "collections.dll": {}
+          "Collections.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "collections/1.0.0": {
+    "Collections/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
